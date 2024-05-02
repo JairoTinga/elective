@@ -124,6 +124,7 @@ $showModal = shouldShowModal();
             </div>
             <ul class="nav navbar-nav">
                 <li><a href="test.php">Test</a></li>
+                <li><a href="test3.php">Test 3</a></li>
             </ul>
         </div>
     </nav>
